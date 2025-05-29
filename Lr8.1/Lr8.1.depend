@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672226420 source:/home/kris/Documents/Algoritmization/Lr8.1/main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
